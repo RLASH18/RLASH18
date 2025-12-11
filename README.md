@@ -80,10 +80,7 @@ I enjoy exploring new technologies and building projects that help me grow.
 
 <div align="center">
 
-<a href="https://facebook.com/JhayLacdang18" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/facebook.svg" alt="Facebook" width="30" height="30" style="filter: invert(36%) sepia(89%) saturate(1678%) hue-rotate(201deg) brightness(97%) contrast(101%);" /></a>
-<a href="https://instagram.com/ryanlester_18" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" alt="Instagram" width="30" height="30" style="filter: invert(37%) sepia(89%) saturate(2476%) hue-rotate(315deg) brightness(99%) contrast(107%);" /></a>
-<a href="mailto:lacdangryan18@gmail.com" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Gmail" width="30" height="30" style="filter: invert(33%) sepia(97%) saturate(2764%) hue-rotate(353deg) brightness(99%) contrast(97%);" /></a>
-<a href="https://paypal.me/jhay184" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/paypal.svg" alt="PayPal" width="30" height="30" style="filter: invert(40%) sepia(97%) saturate(1752%) hue-rotate(196deg) brightness(99%) contrast(101%);" /></a>
+<a href="https://facebook.com/JhayLacdang18" target="_blank"><img src="https://cdn.simpleicons.org/facebook/1877F2" alt="Facebook" height="30" width="30" /></a>&nbsp;<a href="https://instagram.com/ryanlester_18" target="_blank"><img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" height="30" width="30" /></a>&nbsp;<a href="mailto:lacdangryan18@gmail.com" target="_blank"><img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" height="30" width="30" /></a>&nbsp;<a href="https://paypal.me/jhay184" target="_blank"><img src="https://cdn.simpleicons.org/paypal/00457C" alt="PayPal" height="30" width="30" /></a>
 
 </div>
 
