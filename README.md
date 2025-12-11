@@ -22,13 +22,12 @@ I enjoy exploring new technologies and building projects that help me grow.
 <h3 align="center">🛠️ Technologies & Tools</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
   <img src="https://img.shields.io/badge/livewire-%234e56a6.svg?style=for-the-badge&logo=livewire&logoColor=white" alt="Livewire" />
   <img src="https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/inertia-%239553E9.svg?style=for-the-badge&logo=inertia&logoColor=white" alt="Inertia.js" />
   <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
   <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
@@ -44,7 +43,7 @@ I enjoy exploring new technologies and building projects that help me grow.
 
 <div align="center">
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=RLASH18&theme=tokyonight&hide_border=true&background=0d1117&ring=7BF7F7&fire=7BF7F7&currStreakNum=c9d1d9&currStreakLabel=7BF7F7&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&card_width=800)
+![Streak Stats](https://github-readme-streak-stats-trinibs-projects.vercel.app/?user=RLASH18&theme=tokyonight&hide_border=true&background=0d1117&ring=7BF7F7&fire=7BF7F7&currStreakNum=c9d1d9&currStreakLabel=7BF7F7&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&card_width=800)
 
 <table style="border: none; border-collapse: collapse;">
   <tr>
@@ -72,7 +71,7 @@ I enjoy exploring new technologies and building projects that help me grow.
 <h3 align="center">🏆 GitHub Trophies</h3>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RLASH18&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy-trinibs-projects.vercel.app/?username=RLASH18&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4&title_color=7BF7F7&text_color=c9d1d9&icon_color=7BF7F7&bg_color=0d1117" alt="GitHub Trophies" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=7BF7F7&height=2&section=header&fontSize=0" width="100%">
@@ -81,7 +80,10 @@ I enjoy exploring new technologies and building projects that help me grow.
 
 <div align="center">
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/JhayLacdang18)[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ryanlester_18)[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lacdangryan18@gmail.com)[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/jhay184)
+<a href="https://facebook.com/JhayLacdang18" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/facebook.svg" alt="Facebook" width="30" height="30" style="filter: invert(36%) sepia(89%) saturate(1678%) hue-rotate(201deg) brightness(97%) contrast(101%);" /></a>
+<a href="https://instagram.com/ryanlester_18" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" alt="Instagram" width="30" height="30" style="filter: invert(37%) sepia(89%) saturate(2476%) hue-rotate(315deg) brightness(99%) contrast(107%);" /></a>
+<a href="mailto:lacdangryan18@gmail.com" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Gmail" width="30" height="30" style="filter: invert(33%) sepia(97%) saturate(2764%) hue-rotate(353deg) brightness(99%) contrast(97%);" /></a>
+<a href="https://paypal.me/jhay184" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/paypal.svg" alt="PayPal" width="30" height="30" style="filter: invert(40%) sepia(97%) saturate(1752%) hue-rotate(196deg) brightness(99%) contrast(101%);" /></a>
 
 </div>
 
