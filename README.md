@@ -43,15 +43,24 @@ I enjoy exploring new technologies and building projects that help me grow.
 
 <div align="center">
 
-![Streak Stats](https://github-readme-streak-stats-trinibs-projects.vercel.app/?user=RLASH18&theme=tokyonight&hide_border=true&background=0d1117&ring=7BF7F7&fire=7BF7F7&currStreakNum=c9d1d9&currStreakLabel=7BF7F7&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&card_width=800)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-trinibs-projects.vercel.app/?user=RLASH18&theme=tokyonight&hide_border=true&background=0d1117&ring=7BF7F7&fire=7BF7F7&currStreakNum=c9d1d9&currStreakLabel=7BF7F7&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&card_width=800" />
+  <img src="https://github-readme-streak-stats-trinibs-projects.vercel.app/?user=RLASH18&theme=default&hide_border=true&ring=7BF7F7&fire=10b981&card_width=800" alt="Streak Stats" />
+</picture>
 
 <table style="border: none; border-collapse: collapse;">
   <tr>
     <td style="border: none;">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=RLASH18&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7BF7F7&icon_color=7BF7F7&text_color=c9d1d9&count_private=true&card_width=410" height="170" alt="stats graph" />
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=RLASH18&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7BF7F7&icon_color=7BF7F7&text_color=c9d1d9&count_private=true&card_width=410" />
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=RLASH18&show_icons=true&theme=default&hide_border=true&title_color=0369a1&icon_color=7BF7F7&count_private=true&card_width=410" height="170" alt="stats graph" />
+      </picture>
     </td>
     <td style="border: none;">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RLASH18&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7BF7F7&text_color=c9d1d9&card_width=410" height="170" alt="languages graph" />
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RLASH18&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7BF7F7&text_color=c9d1d9&card_width=410" />
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RLASH18&layout=compact&theme=default&hide_border=true&title_color=0369a1&card_width=410" height="170" alt="languages graph" />
+      </picture>
     </td>
   </tr>
 </table>
@@ -63,7 +72,10 @@ I enjoy exploring new technologies and building projects that help me grow.
 <h3 align="center">🐍 Contribution History</h3>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/RLASH18/RLASH18/output/snake.svg" alt="Snake animation" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RLASH18/RLASH18/output/snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/RLASH18/RLASH18/output/snake.svg" alt="Snake animation" width="100%" />
+  </picture>
 </div>
 
 <br>
@@ -71,7 +83,10 @@ I enjoy exploring new technologies and building projects that help me grow.
 <h3 align="center">🏆 GitHub Trophies</h3>
 
 <div align="center">
-  <img src="https://github-profile-trophy-trinibs-projects.vercel.app/?username=RLASH18&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4&title_color=7BF7F7&text_color=c9d1d9&icon_color=7BF7F7&bg_color=0d1117" alt="GitHub Trophies" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-trinibs-projects.vercel.app/?username=RLASH18&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4&title_color=7BF7F7&text_color=c9d1d9&icon_color=7BF7F7&bg_color=0d1117" />
+    <img src="https://github-profile-trophy-trinibs-projects.vercel.app/?username=RLASH18&theme=flat&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4" alt="GitHub Trophies" />
+  </picture>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=7BF7F7&height=2&section=header&fontSize=0" width="100%">
