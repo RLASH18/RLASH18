@@ -6,24 +6,16 @@
 
 <h3 align="center">👨‍💻 About Me</h3>
 
-<div align="center">
+<img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="200" alt="Coding Octocat" />
 
-<table align="center" style="border: none; border-collapse: collapse;">
-  <tr style="border: none; border-top: 0;">
-    <td style="border: none; vertical-align: top; text-align: left;">
-      I'm a student developer passionate about creating clean, functional, and meaningful software.<br/>
-      I enjoy exploring new technologies and building projects that help me grow.<br/><br/>
-      🔭 <strong>Currently working on:</strong> Strengthening my full-stack development skills<br/>
-      🌱 <strong>Learning:</strong> Software engineering fundamentals & real-world development workflows<br/>
-      💡 <strong>Goal:</strong> To become a professional Software Developer and build impactful apps
-    </td>
-    <td style="border: none; vertical-align: top;" align="center">
-      <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="200" />
-    </td>
-  </tr>
-</table>
+I'm a student developer passionate about creating clean, functional, and meaningful software.  
+I enjoy exploring new technologies and building projects that help me grow.
 
-</div>
+- 🔭 **Currently working on:** Strengthening my full-stack development skills
+- 🌱 **Learning:** Software engineering fundamentals & real-world development workflows
+- 💡 **Goal:** To become a professional Software Developer and build impactful apps
+
+<br clear="right"/>
 
 <br>
 
