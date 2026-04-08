@@ -6,7 +6,7 @@
 
 <h3 align="center">👨‍💻 About Me</h3>
 
-<img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="200" alt="Coding Octocat" />
+<img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="200" style="margin-top:-18px;" alt="Coding Octocat" />
 
 I'm a student developer passionate about creating clean, functional, and meaningful software.  
 I enjoy exploring new technologies and building projects that help me grow.
@@ -53,22 +53,16 @@ I enjoy exploring new technologies and building projects that help me grow.
   <img src="https://github-readme-streak-stats-trinibs-projects.vercel.app/?user=RLASH18&theme=default&hide_border=true&ring=3B82F6&fire=3B82F6&card_width=800" alt="Streak Stats" />
 </picture>
 
-<table style="border: none; border-collapse: collapse;">
-  <tr>
-    <td style="border: none;">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=RLASH18&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3B82F6&icon_color=3B82F6&text_color=c9d1d9&count_private=true&card_width=410" />
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=RLASH18&show_icons=true&theme=default&hide_border=true&title_color=0369a1&icon_color=3B82F6&count_private=true&card_width=410" height="170" alt="stats graph" />
-      </picture>
-    </td>
-    <td style="border: none;">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RLASH18&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3B82F6&text_color=c9d1d9&card_width=410" />
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RLASH18&layout=compact&theme=default&hide_border=true&title_color=0369a1&card_width=410" height="170" alt="languages graph" />
-      </picture>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=RLASH18&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3B82F6&icon_color=3B82F6&text_color=c9d1d9&count_private=true&card_width=410" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=RLASH18&show_icons=true&theme=default&hide_border=true&title_color=0369a1&icon_color=3B82F6&count_private=true&card_width=410" width="49%" style="vertical-align: top;" alt="stats graph" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RLASH18&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3B82F6&text_color=c9d1d9&card_width=410" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RLASH18&layout=compact&theme=default&hide_border=true&title_color=0369a1&card_width=410" width="49%" style="vertical-align: top;" alt="languages graph" />
+  </picture>
+</p>
 
 </div>
 
