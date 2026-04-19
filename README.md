@@ -21,21 +21,7 @@ I enjoy exploring new technologies and building projects that help me grow.
 <h3 align="center">🔗 Connect with Me</h3>
 
 <p align="center">
-  <a href="https://facebook.com/ryanlesterlacdang18" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="https://instagram.com/ryanlester_18" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="mailto:lacdangryan18@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://x.com" target="_blank">
-    <img src="https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white" alt="X" />
-  </a>
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white" alt="LinkedIn" />
-  </a>
+  <a href="https://facebook.com/ryanlesterlacdang18" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook" /></a>&nbsp;<a href="https://instagram.com/ryanlester_18" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" /></a>&nbsp;<a href="mailto:lacdangryan18@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" /></a>&nbsp;<a href="https://x.com" target="_blank"><img src="https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white" alt="X" /></a>&nbsp;<a href="https://linkedin.com" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 <br>
@@ -51,25 +37,33 @@ I enjoy exploring new technologies and building projects that help me grow.
 <h3 align="center">📊 GitHub Statistics</h3>
 
 <div align="center">
+  <table>
+    <tr>
+      <td>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-trinibs-projects.vercel.app/?user=RLASH18&theme=tokyonight&hide_border=true&background=0d1117&ring=3B82F6&fire=3B82F6&currStreakNum=c9d1d9&currStreakLabel=3B82F6&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&card_width=800" />
+          <img src="https://github-readme-streak-stats-trinibs-projects.vercel.app/?user=RLASH18&theme=default&hide_border=true&ring=3B82F6&fire=3B82F6&card_width=800" alt="Streak Stats" />
+        </picture>
+      </td>
+    </tr>
+  </table>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-trinibs-projects.vercel.app/?user=RLASH18&theme=tokyonight&hide_border=true&background=0d1117&ring=3B82F6&fire=3B82F6&currStreakNum=c9d1d9&currStreakLabel=3B82F6&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&card_width=800" />
-  <img src="https://github-readme-streak-stats-trinibs-projects.vercel.app/?user=RLASH18&theme=default&hide_border=true&ring=3B82F6&fire=3B82F6&card_width=800" alt="Streak Stats" />
-</picture>
-
-<div align="center">
-  <sub>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=RLASH18&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3B82F6&icon_color=3B82F6&text_color=c9d1d9&count_private=true&card_width=410" />
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=RLASH18&show_icons=true&theme=default&hide_border=true&title_color=0369a1&icon_color=3B82F6&count_private=true&card_width=410" width="49%" alt="stats graph" />
-    </picture>
-  </sub>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RLASH18&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3B82F6&text_color=c9d1d9&card_width=410" />
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RLASH18&layout=compact&theme=default&hide_border=true&title_color=0369a1&card_width=410" width="49%" alt="languages graph" />
-  </picture>
-</div>
-
+  <table>
+    <tr>
+      <td valign="top">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=RLASH18&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3B82F6&icon_color=3B82F6&text_color=c9d1d9&count_private=true&card_width=410" />
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=RLASH18&show_icons=true&theme=default&hide_border=true&title_color=0369a1&icon_color=3B82F6&count_private=true&card_width=410" width="100%" alt="stats graph" />
+        </picture>
+      </td>
+      <td valign="top">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RLASH18&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3B82F6&text_color=c9d1d9&card_width=410" />
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RLASH18&layout=compact&theme=default&hide_border=true&title_color=0369a1&card_width=410" width="100%" alt="languages graph" />
+        </picture>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br>
