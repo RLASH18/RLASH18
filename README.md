@@ -29,7 +29,7 @@ I enjoy exploring new technologies and building projects that help me grow.
 <h3 align="center">🛠️ Technologies & Tools</h3>
 
 <p align="center">
-  <img src="https://skills.syvixor.com/api/icons?perline=15&i=html,css,javascript,vuejs,tailwindcss,bootstrap,php,laravel,inertiajs,livewire,mysql,sqlite,git,github,visualstudiocode,vite,npm,postman" />
+  <img src="https://skills.syvixor.com/api/icons?perline=15&i=html,css,javascript,vuejs,tailwindcss,bootstrap,php,laravel,inertiajs,livewire,mysql,sqlite,git,github,visualstudiocode,vite,composer,npm,postman" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
