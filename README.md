@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=3B82F6&background=00000000&center=true&vCenter=true&width=800&height=100&lines=Hi+there!+%F0%9F%91%8B+I'm+Ryan;A+Passionate+Student+Developer;Crafting+Code+%26+Building+Dreams;Welcome+to+my+Creative+Space!+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=3B82F6&background=00000000&center=true&vCenter=true&width=800&height=100&lines=Hi+there!+%F0%9F%91%8B+I'm+Ryan;Full-Stack+Software+Developer;VILT+Stack+Enthusiast;Building+Structured+%26+Scalable+Apps;Welcome+to+my+Creative+Space!+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -8,12 +8,13 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="200" style="margin-top:-18px;" alt="Coding Octocat" />
 
-I'm a student developer passionate about creating clean, functional, and meaningful software.  
-I enjoy exploring new technologies and building projects that help me grow.
+I am a **Software Developer** focused on full-stack development. I enjoy building structured, scalable, and maintainable applications.
 
-- 🔭 **Currently working on:** Strengthening my full-stack development skills
-- 🌱 **Learning:** Software engineering fundamentals & real-world development workflows
-- 💡 **Goal:** To become a professional Software Developer and build impactful apps
+- 🏗️ **Architecture:** Structuring systems using Monolith, MVC, and N-Tier architectures for clarity & scalability
+- 🔌 **API Design:** Designing and developing RESTful APIs with clean structure and maintainability in mind
+- ⚡ **Preferred Stack:** Building full-stack applications using the **VILT stack** (Vue, Inertia, Laravel, Tailwind)
+- 🌱 **Learning & Practice:** Continuously improving skills in clean code, system design, and modern development practices
+- 💡 **Goal:** To build software that is reliable, scalable, and built with purpose—creating real value for its users
 
 <br clear="right"/>
 <br>
