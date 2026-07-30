@@ -6,15 +6,15 @@
 
 <h3 align="center">👨‍💻 About Me</h3>
 
-<img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="200" style="margin-top:-18px;" alt="Coding Octocat" />
+<img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="185" style="margin-top:-15px;" alt="Coding Octocat" />
 
-I am a **Software Developer** focused on full-stack development. I enjoy building structured, scalable, and maintainable applications.
+I am a **Software Developer** focused on full-stack development, building structured & maintainable apps.
 
-- 🏗️ **Architecture:** Structuring systems using Monolith, MVC, and N-Tier architectures for clarity & scalability
-- 🔌 **API Design:** Designing and developing RESTful APIs with clean structure and maintainability in mind
-- ⚡ **Preferred Stack:** Building full-stack applications using the **VILT stack** (Vue, Inertia, Laravel, Tailwind)
-- 🌱 **Learning & Practice:** Continuously improving skills in clean code, system design, and modern development practices
-- 💡 **Goal:** To build software that is reliable, scalable, and built with purpose—creating real value for its users
+- 🏗️ **Architecture:** Monolith, MVC & N-Tier architecture for clarity & scalability
+- 🔌 **API Design:** Designing clean, structured & maintainable RESTful APIs
+- ⚡ **Preferred Stack:** Full-stack apps via **VILT stack** (Vue, Inertia, Laravel, Tailwind)
+- 🌱 **Growth:** Improving skills in clean code, system design & modern dev practices
+- 💡 **Goal:** Building reliable, scalable software that creates real value for users
 
 <br clear="right"/>
 <br>
