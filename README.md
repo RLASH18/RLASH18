@@ -8,7 +8,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### 👨‍💻 About Me
+<h3 align="center">👨‍💻 About Me</h3>
 
 I am a **Software Developer** focused on full-stack development, building structured, scalable, and maintainable applications and systems.
 
@@ -20,7 +20,7 @@ I am a **Software Developer** focused on full-stack development, building struct
 
 <br>
 
-### 🛠️ Technologies & Tools
+<h3 align="center">🛠️ Technologies & Tools</h3>
 
 <p align="center">
   <img src="https://skills.syvixor.com/api/icons?perline=15&i=html,css,javascript,vuejs,tailwindcss,bootstrap,php,laravel,inertiajs,livewire,mysql,sqlite,git,github,visualstudiocode,vite,composer,npm,postman" alt="Technologies & Tools" />
@@ -28,15 +28,16 @@ I am a **Software Developer** focused on full-stack development, building struct
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### 📊 GitHub Analytics
+<h3 align="center">📊 GitHub Analytics</h3>
 
 <div align="center">
   <table>
     <tr>
       <td>
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=RLASH18&theme=tokyonight&hide_border=true&background=0d1117&ring=3B82F6&fire=3B82F6&currStreakNum=c9d1d9&currStreakLabel=3B82F6&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&card_width=800" />
-          <img src="https://streak-stats.demolab.com/?user=RLASH18&theme=default&hide_border=true&ring=3B82F6&fire=3B82F6&card_width=800" alt="Streak Stats" />
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=RLASH18&theme=tokyonight&hide_border=true&background=0d1117&ring=3B82F6&fire=3B82F6&currStreakNum=c9d1d9&currStreakLabel=3B82F6&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&card_width=800" />
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=RLASH18&theme=default&hide_border=true&ring=3B82F6&fire=3B82F6&card_width=800" />
+          <img src="https://github-readme-streak-stats-eight.vercel.app/?user=RLASH18&theme=default&hide_border=true&ring=3B82F6&fire=3B82F6&card_width=800" alt="Streak Stats" width="800" />
         </picture>
       </td>
     </tr>
@@ -47,12 +48,14 @@ I am a **Software Developer** focused on full-stack development, building struct
       <td valign="top">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=RLASH18&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3B82F6&icon_color=3B82F6&text_color=c9d1d9&count_private=true&card_width=420" />
+          <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=RLASH18&show_icons=true&theme=default&hide_border=true&title_color=0369a1&icon_color=3B82F6&count_private=true&card_width=420" />
           <img src="https://github-stats-extended.vercel.app/api?username=RLASH18&show_icons=true&theme=default&hide_border=true&title_color=0369a1&icon_color=3B82F6&count_private=true&card_width=420" alt="Stats Graph" />
         </picture>
       </td>
       <td valign="top">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=RLASH18&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3B82F6&text_color=c9d1d9&card_width=420" />
+          <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=RLASH18&layout=compact&langs_count=8&theme=default&hide_border=true&title_color=0369a1&card_width=420" />
           <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=RLASH18&layout=compact&langs_count=8&theme=default&hide_border=true&title_color=0369a1&card_width=420" alt="Languages Graph" />
         </picture>
       </td>
@@ -62,11 +65,12 @@ I am a **Software Developer** focused on full-stack development, building struct
 
 <br>
 
-### 🐍 Contribution Activity
+<h3 align="center">🐍 Contribution Activity</h3>
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RLASH18/RLASH18/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RLASH18/RLASH18/output/snake.svg" />
     <img src="https://raw.githubusercontent.com/RLASH18/RLASH18/output/snake.svg" alt="Snake Animation" width="100%" />
   </picture>
 </div>
