@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <a href="https://facebook.com/ryanlesterlacdang18" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;<a href="https://instagram.com/ryanlester_18" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;<a href="mailto:lacdangryan18@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" alt="Gmail" /></a>&nbsp;<a href="https://github.com/RLASH18" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://facebook.com/ryanlesterlacdang18" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;<a href="https://instagram.com/ryanlester_18" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;<a href="mailto:lacdangryan18@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" alt="Gmail" /></a>&nbsp;<a href="https://github.com/rylacdang" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -35,9 +35,9 @@ I am a **Software Developer** focused on full-stack development, building struct
     <tr>
       <td>
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=RLASH18&theme=tokyonight&hide_border=true&background=0d1117&ring=3B82F6&fire=3B82F6&currStreakNum=c9d1d9&currStreakLabel=3B82F6&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&card_width=800" />
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=RLASH18&theme=default&hide_border=true&ring=3B82F6&fire=3B82F6&card_width=800" />
-          <img src="https://github-readme-streak-stats-eight.vercel.app/?user=RLASH18&theme=default&hide_border=true&ring=3B82F6&fire=3B82F6&card_width=800" alt="Streak Stats" width="800" />
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=rylacdang&theme=tokyonight&hide_border=true&background=0d1117&ring=3B82F6&fire=3B82F6&currStreakNum=c9d1d9&currStreakLabel=3B82F6&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&card_width=800" />
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=rylacdang&theme=default&hide_border=true&ring=3B82F6&fire=3B82F6&card_width=800" />
+          <img src="https://github-readme-streak-stats-eight.vercel.app/?user=rylacdang&theme=default&hide_border=true&ring=3B82F6&fire=3B82F6&card_width=800" alt="Streak Stats" width="800" />
         </picture>
       </td>
     </tr>
@@ -47,16 +47,16 @@ I am a **Software Developer** focused on full-stack development, building struct
     <tr>
       <td valign="top">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=RLASH18&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3B82F6&icon_color=3B82F6&text_color=c9d1d9&count_private=true&card_width=420" />
-          <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=RLASH18&show_icons=true&theme=default&hide_border=true&title_color=0369a1&icon_color=3B82F6&count_private=true&card_width=420" />
-          <img src="https://github-stats-extended.vercel.app/api?username=RLASH18&show_icons=true&theme=default&hide_border=true&title_color=0369a1&icon_color=3B82F6&count_private=true&card_width=420" alt="Stats Graph" />
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=rylacdang&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3B82F6&icon_color=3B82F6&text_color=c9d1d9&count_private=true&card_width=420" />
+          <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=rylacdang&show_icons=true&theme=default&hide_border=true&title_color=0369a1&icon_color=3B82F6&count_private=true&card_width=420" />
+          <img src="https://github-stats-extended.vercel.app/api?username=rylacdang&show_icons=true&theme=default&hide_border=true&title_color=0369a1&icon_color=3B82F6&count_private=true&card_width=420" alt="Stats Graph" />
         </picture>
       </td>
       <td valign="top">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=RLASH18&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3B82F6&text_color=c9d1d9&card_width=420" />
-          <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=RLASH18&layout=compact&langs_count=8&theme=default&hide_border=true&title_color=0369a1&card_width=420" />
-          <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=RLASH18&layout=compact&langs_count=8&theme=default&hide_border=true&title_color=0369a1&card_width=420" alt="Languages Graph" />
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=rylacdang&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3B82F6&text_color=c9d1d9&card_width=420" />
+          <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=rylacdang&layout=compact&langs_count=8&theme=default&hide_border=true&title_color=0369a1&card_width=420" />
+          <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=rylacdang&layout=compact&langs_count=8&theme=default&hide_border=true&title_color=0369a1&card_width=420" alt="Languages Graph" />
         </picture>
       </td>
     </tr>
@@ -69,9 +69,9 @@ I am a **Software Developer** focused on full-stack development, building struct
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RLASH18/RLASH18/output/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RLASH18/RLASH18/output/snake.svg" />
-    <img src="https://raw.githubusercontent.com/RLASH18/RLASH18/output/snake.svg" alt="Snake Animation" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rylacdang/rylacdang/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rylacdang/rylacdang/output/snake.svg" />
+    <img src="https://raw.githubusercontent.com/rylacdang/rylacdang/output/snake.svg" alt="Snake Animation" width="100%" />
   </picture>
 </div>
 
